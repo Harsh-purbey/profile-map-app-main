@@ -23,3 +23,6 @@ Use your own Mapbox token, which can be obtained from Mapbox Access Tokens.
 ```bash
 Copy code
 npm run dev
+![Screenshot (391)](https://github.com/user-attachments/assets/8ddbbe90-3a84-4c33-9994-3b7617ae9344)
+![Screenshot (392)](https://github.com/user-attachments/assets/4ef52de8-292c-4b26-b737-d0fa987179a7)
+![Uploading Screenshot (393).png…]()
