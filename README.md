@@ -21,6 +21,9 @@ Use your own Mapbox token, which can be obtained from Mapbox Access Tokens.
 3.**Start the Frontend Application Locally**:
 
 ![Screenshot (391)](https://github.com/user-attachments/assets/d0b63c0d-f160-40b5-b62e-4aa879aa0eb3)
+![Screenshot (392)](https://github.com/user-attachments/assets/059c1086-478b-426c-8c24-da7a32cb1e65)
+![Screenshot (393)](https://github.com/user-attachments/assets/cd7d5af0-1a7e-4153-a928-80f6fae485a6)
+![Screenshot (394)](https://github.com/user-attachments/assets/a13bf509-dbc3-405c-b9cb-7ad79da23f55)
 
 
 ```bash
